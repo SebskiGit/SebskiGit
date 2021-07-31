@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @SebskiGit
-- very epic gamer status 101
+- im new to Github (well not really I used this website for resources) so excuse if I can't make a source code the right way.
